@@ -1,0 +1,1 @@
+"./basicFunc.obj" "./inverted_Wedge_main.obj" "./main.obj" "./tm4c123gh6pge_startup_ccs.obj" "./tm4cStepperDriver.obj" "./tm4cUart.obj" "./uartstdio.obj" "../tm4c123gh6pge.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" -l"C:/ti/TivaWare_C_Series-2.1.4.178/grlib/ccs/Debug/grlib.lib" 
