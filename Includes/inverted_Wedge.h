@@ -1,7 +1,7 @@
 /*
  * inverted_Wedge.h
  *
- *  Created on: 2018Äê6ÔÂ17ÈÕ
+ *  Created on: 2018/6/17
  *      Author: 18379
  */
 
@@ -28,8 +28,8 @@
  *      U0TX:       PA1
  *      MotorDir    PC7
  *      MotorStep   PC6
- *
- *
+ *      U2RX:       PD6
+ *      U2TX:       PD7
  *
  * */
 

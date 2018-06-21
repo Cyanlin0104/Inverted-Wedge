@@ -1,7 +1,7 @@
 /*
  * main.cpp
  *
- *  Created on: 2018Äê5ÔÂ16ÈÕ
+ *  Created on: 2018/5/16
  *      Author: Cyanlin
  */
 

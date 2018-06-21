@@ -1,9 +1,9 @@
 /*
  * tm4cUart.cpp
  *
- *  Created on: 2018Äê5ÔÂ21ÈÕ
+ *  Created on: 2018/5/21
  *  Description:
- *      Pin:
+ *
  *
  *      Author: 18379
  */
